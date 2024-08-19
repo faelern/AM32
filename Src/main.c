@@ -225,6 +225,7 @@ an settings option)
 
 #define VERSION_MAJOR 2
 #define VERSION_MINOR 8
+#define USE_INVERTED_LOW
 
 uint32_t pwm_frequency_conversion_factor = 0;
 uint16_t blank_time;
